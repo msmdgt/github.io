@@ -1,0 +1,29 @@
+@media (min-width: 570px) {
+  .top-wrapper p {
+    text-align: center;
+  }
+  .feature img {
+    width: 50%;
+    float: left;
+  }
+  .feature p {
+    width: 45%;
+    float: right;
+  }
+  .feature {
+    display: inline-block;
+    overflow: hidden;
+  }
+  .title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+}
+
+@media (min-width: 912px) {
+
+  .container {
+    width: 820px;
+  }
+  
+}
